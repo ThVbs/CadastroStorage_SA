@@ -4,7 +4,7 @@
 ------------------------------
 
 # Professor e Alunos :
-- Professor : Jackson 3°B
+- Professor : Jackson Dener ; Bruno bandeira
 - Tiago Martins Rodrigues João #Lider
 - Pedro Henrique Flores #Vice-Lider
 - Lucas Werpp Franco
